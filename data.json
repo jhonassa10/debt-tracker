@@ -1,0 +1,171 @@
+{
+  "debts": [
+    {
+      "id": 1,
+      "name": "Apple Care",
+      "due": 20,
+      "dueDay": 15,
+      "color": "#f5a623",
+      "balance": null,
+      "status": "pending",
+      "paidAmt": 0,
+      "paidDate": null,
+      "daysLeft": 1
+    },
+    {
+      "id": 2,
+      "name": "Bank of America",
+      "due": 200,
+      "dueDay": 16,
+      "color": "#f5a623",
+      "balance": 2186,
+      "status": "pending",
+      "paidAmt": 0,
+      "paidDate": null,
+      "daysLeft": 2
+    },
+    {
+      "id": 3,
+      "name": "Car Payment",
+      "due": 388,
+      "dueDay": 27,
+      "color": "#4a9eff",
+      "balance": 7619,
+      "status": "pending",
+      "paidAmt": 0,
+      "paidDate": null,
+      "daysLeft": 13
+    },
+    {
+      "id": 4,
+      "name": "Apple Card",
+      "due": 200,
+      "dueDay": 28,
+      "color": "#4a9eff",
+      "balance": 3573,
+      "status": "pending",
+      "paidAmt": 0,
+      "paidDate": null,
+      "daysLeft": 14
+    },
+    {
+      "id": 5,
+      "name": "Home Depot",
+      "due": 200,
+      "dueDay": 28,
+      "color": "#4a9eff",
+      "balance": null,
+      "status": "pending",
+      "paidAmt": 0,
+      "paidDate": null,
+      "daysLeft": 14
+    },
+    {
+      "id": 6,
+      "name": "Rent",
+      "due": 750,
+      "dueDay": 1,
+      "color": "#1fc97a",
+      "balance": null,
+      "status": "paid",
+      "paidAmt": 750,
+      "paidDate": "Mar 1"
+    },
+    {
+      "id": 7,
+      "name": "Robin Hood",
+      "due": 300,
+      "dueDay": 4,
+      "color": "#1fc97a",
+      "balance": 2724,
+      "status": "paid",
+      "paidAmt": 300,
+      "paidDate": "Mar 6"
+    },
+    {
+      "id": 8,
+      "name": "Best Buy",
+      "due": 50,
+      "dueDay": 10,
+      "color": "#1fc97a",
+      "balance": 959,
+      "status": "paid",
+      "paidAmt": 50,
+      "paidDate": "Mar 7"
+    },
+    {
+      "id": 9,
+      "name": "T-Mobile",
+      "due": 50,
+      "dueDay": 6,
+      "color": "#1fc97a",
+      "balance": null,
+      "status": "paid",
+      "paidAmt": 50,
+      "paidDate": "Mar 5"
+    },
+    {
+      "id": 10,
+      "name": "Capital One",
+      "due": 28,
+      "dueDay": 4,
+      "color": "#1fc97a",
+      "balance": 603,
+      "status": "paid",
+      "paidAmt": 28,
+      "paidDate": "Mar 3"
+    },
+    {
+      "id": 11,
+      "name": "Klarna",
+      "due": 30,
+      "dueDay": 9,
+      "color": "#1fc97a",
+      "balance": 30,
+      "status": "paid",
+      "paidAmt": 30,
+      "paidDate": "Mar 8"
+    }
+  ],
+  "history": [
+    {
+      "name": "Rent",
+      "paid": 750,
+      "date": "Mar 1",
+      "note": ""
+    },
+    {
+      "name": "Capital One",
+      "paid": 28,
+      "date": "Mar 3",
+      "note": ""
+    },
+    {
+      "name": "T-Mobile",
+      "paid": 50,
+      "date": "Mar 5",
+      "note": ""
+    },
+    {
+      "name": "Robin Hood",
+      "paid": 300,
+      "date": "Mar 6",
+      "note": ""
+    },
+    {
+      "name": "Best Buy",
+      "paid": 50,
+      "date": "Mar 7",
+      "note": ""
+    },
+    {
+      "name": "Klarna",
+      "paid": 30,
+      "date": "Mar 8",
+      "note": ""
+    }
+  ],
+  "tandaWeeks": 18,
+  "nextId": 20,
+  "savedAt": "2026-03-14T23:26:07.672Z"
+}
